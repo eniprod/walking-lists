@@ -30,5 +30,4 @@ You can check more than one riding. The map zooms to fit all of them.
 ## Notes
 
 - Use a current Chrome, Edge, Firefox, or Safari.
-- This copy stops working after **31 October 2026**.
-- Do not edit the files unless you were asked to. Changing names or the HTML can stop the maps from loading.
+- Do not edit the files.
